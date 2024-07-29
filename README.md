@@ -18,7 +18,7 @@ Welcome to my portfolio! This project showcases my skills and projects as a web 
 
 ## Usage
 
-You can visit the live version of the portfolio [here](https://your-portfolio-url.com).
+You can visit the live version of the portfolio [here](https://my-portfolio-kpratik0709.vercel.app/).
 
 ### Contact Form
 
