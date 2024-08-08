@@ -84,16 +84,19 @@ nav.scrolled span {
 /* about */
 
 .about {
-  background-color: #030000;
-  height: auto;
-  max-width: 1440px;
-  margin: auto;
-  color: white;
-  font-family: sans-serif;
-  font-style: normal;
-  padding-top: 100px;
-  line-height: 30px;
-}
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      height: auto; /* Adjust to content height */
+      max-width: 1440px;
+      margin: auto;
+      color: white;
+      font-style: normal;
+      padding-top: 100px;
+      line-height: 30px;
+      text-align: center;
+    }
 
 .about h1 {
   font-size: 50px;
