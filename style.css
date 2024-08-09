@@ -474,14 +474,14 @@ nav.scrolled span {
 }
 
 .projects {
-  background-color: #111111;
+   background-color: #362424;
   max-width: 1440px;
   margin: auto;
 }
 
 .carousel {
   aspect-ratio: 16/9;
-  width: 100%;
+  width: 90%;
   max-width: 1000px;
   margin: auto;
   position: relative;
